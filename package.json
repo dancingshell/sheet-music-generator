@@ -14,6 +14,9 @@
   ],
   "author": "",
   "license": "ISC",
+  "dependencies": {
+    "styled-components": "^4.4.0"
+  },
   "devDependencies": {
     "@babel/core": "^7.6.4",
     "@storybook/addon-actions": "^4.1.11",
@@ -27,6 +30,7 @@
     "@types/react-dom": "^16.9.2",
     "@types/react-test-renderer": "^16.9.1",
     "@types/storybook__react": "^4.0.2",
+    "@types/styled-components": "4.1.8",
     "@types/webpack-env": "^1.14.1",
     "awesome-typescript-loader": "^5.2.1",
     "babel-loader": "^8.0.6",
